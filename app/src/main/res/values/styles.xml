@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+     <!--style tag code goes in styles.xml to change stubborn colors following colorAccent-->
+
+         <style name="switchColor">
+             <item name="colorAccent">@color/switchColor</item>
+
+
+         </style>
+</resources>
